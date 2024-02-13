@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44ac20e3.css",
+    "main.js": "/static/js/main.11ffb9cd.js",
+    "static/media/audio.mp3": "/static/media/audio.d90e16b35f67f20e0585.mp3",
+    "static/media/valentines.png": "/static/media/valentines.15a122712f647f5d4c0b.png",
+    "static/media/Brown_Beige_Green_Aesthetic_Scrapbook_Thank_You_Letter-removebg-preview.png": "/static/media/Brown_Beige_Green_Aesthetic_Scrapbook_Thank_You_Letter-removebg-preview.e7b3413307624e619050.png",
+    "static/media/image1.jpg": "/static/media/image1.b452ae86094e3da3547c.jpg",
+    "static/media/image3.jpg": "/static/media/image3.c2243c78709f790f85be.jpg",
+    "static/media/image6.jpg": "/static/media/image6.bd912409d5b473c1e760.jpg",
+    "static/media/image5.jpg": "/static/media/image5.ef5cb8eee223bfc3904d.jpg",
+    "static/media/heartClosed-removebg-preview.png": "/static/media/heartClosed-removebg-preview.c794fa5444dcf54a9509.png",
+    "static/media/heartOpen-removebg-preview.png": "/static/media/heartOpen-removebg-preview.1e1a4303c15b53edba7c.png",
+    "static/media/image4.jpg": "/static/media/image4.b967d9b22933da02ee5e.jpg",
+    "static/media/1stEver.jpg": "/static/media/1stEver.d024aa4fb7cc98e95735.jpg",
+    "index.html": "/index.html",
+    "main.44ac20e3.css.map": "/static/css/main.44ac20e3.css.map",
+    "main.11ffb9cd.js.map": "/static/js/main.11ffb9cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44ac20e3.css",
+    "static/js/main.11ffb9cd.js"
+  ]
+}
